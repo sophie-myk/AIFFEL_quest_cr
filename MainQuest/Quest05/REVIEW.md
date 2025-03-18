@@ -1,5 +1,10 @@
 ### 회고
 
+
+![image](https://github.com/user-attachments/assets/60e7ff36-859a-47e5-9069-c8f1a11ca007)
+![image](https://github.com/user-attachments/assets/28106721-4c9c-40e9-ba4d-9216340ee295)
+
+
 1. 학습한 내용 중 가장 유용했던 점:
  - 학습하면서 계속 놓치고, 못 따라갔던 개념들과 다시 고군분투하고 학습할 수 있는 계기가 되었다.
 
